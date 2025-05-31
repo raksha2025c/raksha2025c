@@ -18,4 +18,3 @@ I enjoy designing impactful, scalable tech for real-world challenges, especially
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raksha-chandrashekar/)
-[![Email](https://img.shields.io/badge/Email-rc3729@columbia.edu-lightgrey?style=flat&logo=gmail)](mailto:rc3729@columbia.edu)
