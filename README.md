@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Raksha</h1>
+<h3 align="center">Engineer | AI & Embedded Systems Enthusiast | Open to Collaborations</h3>
 
-<!--
-**raksha2025c/raksha2025c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm currently pursuing my **M.S. in Computer Engineering** at **Columbia University**, exploring intersections between **AI**, **IoT**, and **embedded software**.  
+I enjoy designing impactful, scalable tech for real-world challenges, especially in sustainability, accessibility, and automation.
+🍵 Fueled by tea, lost in books, always dancing, and chasing new corners of the world.
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raksha-chandrashekar/)
+[![Email](https://img.shields.io/badge/Email-rakshac@protonmail.com-lightgrey?style=flat&logo=gmail)](mailto:rc3729@columbia.edu)
